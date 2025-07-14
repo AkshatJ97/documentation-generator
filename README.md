@@ -1,4 +1,3 @@
-```markdown
 # GitHub Documentation Generator
 
 A web application to **automatically generate professional README.md documentation** for any public GitHub repository. Paste a repo URL, and receive a ready Markdown readme that includes core project details, logic, tech stack, file structure, and usage—all generated in seconds by AI.
