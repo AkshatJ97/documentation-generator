@@ -40,8 +40,6 @@ A web application to **automatically generate professional README.md documentati
 
 ## 🗂️ Project Structure
 
-<details><summary>Expand project tree</summary>
-
 ```
 github-doc-generator-frontend/
   └── github-doc-generator/
@@ -74,8 +72,6 @@ github-doc-generator/
   ├── pom.xml
   └── ... (resources, config)
 ```
-</details>
-
 ---
 
 ## 🛠️ Tech Stack
